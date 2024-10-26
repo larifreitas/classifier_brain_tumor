@@ -48,3 +48,4 @@ No presente trabalho, foram desenvolvidas ténicas de classificação de imagens
 
 ## Fontes
 https://github.com/jbcnrlz/visaoComputacional?tab=readme-ov-file#hog-histograma-de-gradientes-orientados
+# classifier_brain_tumor
