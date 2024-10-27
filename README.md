@@ -1,5 +1,5 @@
 
-# Extração de Características e Classificação de Imagens de Tomografias de Tumores
+# Extração de Características e Classificação de Imagens de tomografias de tumores cerebrais
 
 ## Introdução
 
